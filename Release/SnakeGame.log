@@ -1,0 +1,87 @@
+﻿  boundWalls.cpp
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(10,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(10,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(11,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(11,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(12,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(12,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(13,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Repos\Harvey\Snake4\SnakeGame\src\boundWalls.cpp(13,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  food.cpp
+C:\Repos\Harvey\Snake4\SnakeGame\src\food.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  grid.cpp
+  gridSquare.cpp
+C:\Repos\Harvey\Snake4\SnakeGame\src\gridSquare.cpp(13,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\gridSquare.cpp(18,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  rectangle.cpp
+  snake.cpp
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(200,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Repos\Harvey\Snake4\SnakeGame\src\snake.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+  snakeBodySegment.cpp
+  snakeHead.cpp
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(12,34): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(18,35): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(24,29): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(30,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(37,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Repos\Harvey\Snake4\SnakeGame\src\snakeHead.cpp(37,22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  text.cpp
+  wall.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 288 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeGame.vcxproj -> C:\Repos\Harvey\Snake4\SnakeGame\Release\SnakeGame.exe

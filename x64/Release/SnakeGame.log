@@ -1,0 +1,84 @@
+﻿  boundWalls.cpp
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(10,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(10,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(11,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(11,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(12,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(12,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(13,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\boundWalls.cpp(13,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  food.cpp
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\food.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  grid.cpp
+  gridSquare.cpp
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\gridSquare.cpp(13,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\gridSquare.cpp(18,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  rectangle.cpp
+  snake.cpp
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snake.cpp(143,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snake.cpp(153,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  snakeBodySegment.cpp
+  snakeHead.cpp
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(12,34): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(18,35): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(24,29): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(30,30): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(37,29): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\harve\Downloads\Snake5\SnakeGame\src\snakeHead.cpp(37,22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  text.cpp
+  wall.cpp
+  Generating code
+  275 of 288 functions (95.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SnakeGame.vcxproj -> C:\Users\harve\Downloads\Snake5\SnakeGame\x64\Release\SnakeGame.exe
